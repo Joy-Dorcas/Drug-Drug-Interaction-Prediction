@@ -13,6 +13,85 @@ This project leverages deep learning to predict adverse drug events (ADEs) resul
 - **30% of elderly patients** take 5+ medications simultaneously
 - **Early DDI detection** can prevent hospitalizations and improve patient safety
 
+## Problem Statement
+
+### The Challenge
+
+**Polypharmacy**, the concurrent use of multiple medications, has become increasingly prevalent in modern healthcare. However, the exponential growth in possible drug combinations has created a critical safety gap:
+
+#### Current Situation
+- **Over 3,300 FDA-approved drugs** are available in the market
+- This creates **5+ million possible drug pair combinations**
+- Only **~63,000 combinations** have documented interactions in databases
+- **Less than 2% of possible interactions** have been clinically studied
+
+#### The Core Problem
+**How can we predict adverse drug events for untested drug combinations before patients are harmed?**
+
+### Why This Matters
+
+#### 1. **Patient Safety Crisis**
+- Adverse drug reactions (ADRs) are the **4th leading cause of death** in the United States
+- **~2 million serious ADRs** occur annually in hospitalized patients
+- **Drug-drug interactions account for 20-30%** of all ADRs
+- Preventable ADEs cost the US healthcare system **$30+ billion annually**
+
+#### 2. **Clinical Trial Limitations**
+- **Ethical constraints**: Cannot test all combinations on humans
+- **Time-intensive**: Clinical trials take 10-15 years per drug
+- **Expensive**: Average cost of $2.6 billion per new drug approval
+- **Combinatorial explosion**: Testing all pairs is computationally infeasible
+- **Underrepresented populations**: Most trials exclude children, pregnant women, and elderly
+
+#### 3. **Knowledge Gap**
+- Most DDI discoveries occur **after market approval** through adverse event reporting
+- Physicians often prescribe drug combinations with **unknown interaction profiles**
+- Electronic health record (EHR) alerts have **70-90% false positive rates**, leading to alert fatigue
+- **Novel drug combinations** emerge constantly as new medications are approved
+
+#### 4. **Vulnerable Populations**
+- **Elderly patients** (65+) take an average of 7-8 medications daily
+- **Cancer patients** often require 10+ concurrent medications
+- **Patients with chronic diseases** (diabetes, hypertension, mental health) face highest risk
+- **Women metabolize drugs differently** but are underrepresented in trials
+
+### Research Questions
+
+This project addresses the following critical questions:
+
+1. **Prediction**: Can we accurately predict which drug pairs will cause adverse events before clinical exposure?
+
+2. **Mechanism Understanding**: Which molecular features and biological pathways drive drug-drug interactions?
+
+3. **Severity Assessment**: Can we distinguish between minor interactions and life-threatening ones?
+
+4. **Generalization**: Will models trained on known interactions accurately predict interactions for newly approved drugs?
+
+5. **Clinical Utility**: Can AI predictions reduce unnecessary prescriptions and improve patient outcomes?
+
+### Success Criteria
+
+A successful solution must:
+
+✅ **Achieve >85% AUROC** in predicting known drug-drug interactions  
+✅ **Generalize to unseen drugs** not present in training data  
+✅ **Identify specific ADE types** (not just binary interaction/no-interaction)  
+✅ **Provide interpretable predictions** that clinicians can trust and validate  
+✅ **Scale efficiently** to evaluate millions of drug combinations  
+✅ **Prioritize high-risk interactions** to focus clinical review efforts  
+
+### Proposed Solution
+
+We propose a **Graph Neural Network-based approach** that:
+
+1. **Represents drugs as nodes** in a molecular interaction graph
+2. **Encodes rich drug features**: molecular structure, known side effects, protein targets, pharmacological properties
+3. **Learns interaction patterns** from the 63,000+ documented combinations in TwoSIDES
+4. **Predicts ADEs for novel combinations** through learned graph representations
+5. **Provides attention-based explanations** highlighting which molecular features contribute to predictions
+
+By leveraging deep learning on comprehensive pharmacovigilance data, we aim to create a predictive tool that enhances medication safety and reduces preventable adverse drug events.
+
 
 ## Dataset
 
