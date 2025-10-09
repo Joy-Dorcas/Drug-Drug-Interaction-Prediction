@@ -107,26 +107,105 @@ By leveraging deep learning on comprehensive pharmacovigilance data, we aim to c
 - **PubChem**: SMILES strings and molecular fingerprints
 
 
-## Architecture
+## 🏗️ Methodology & Architecture
 
-### Model Approaches
+### Modeling Approach: Progressive Complexity
 
-#### 1. **Graph Neural Network (Primary)**
+### **Phase 1: Classical Machine Learning Baselines**
+
+#### Feature Engineering
+```python
+For each drug pair (Drug A, Drug B):
+- Molecular fingerprints (Morgan, MACCS)
+- Physicochemical properties (MW, LogP, TPSA)
+- Drug similarity scores (Tanimoto coefficient)
+- Individual side effect profiles from OffSIDES
+- Protein target overlap
+- ATC classification codes
+- Concatenated features: [Drug_A_features, Drug_B_features, Interaction_features]
+```
+
+#### Models to Implement
+
+**1. Logistic Regression**
+- Fast baseline
+- Feature importance interpretability
+- Good for understanding linear relationships
+
+**2. Random Forest**
+- Handles non-linear relationships
+- Built-in feature importance
+- Robust to overfitting
+- **Expected Performance**: 75-80% AUROC
+
+**3. XGBoost / LightGBM** ⭐ Often the best classical approach
+- State-of-the-art gradient boosting
+- Handles class imbalance well
+- Fast training and inference
+- **Expected Performance**: 80-85% AUROC
+- **This often matches or beats simple neural networks!**
+
+**4. Support Vector Machines (SVM)**
+- Good for high-dimensional data
+- Kernel tricks for non-linearity
+- Memory-intensive for large datasets
+
+### **Phase 2: Simple Neural Networks**
+
+#### Multi-Layer Perceptron (MLP)
+```python
+Input Layer (concatenated features)
+    ↓
+Dense(512) + ReLU + Dropout(0.3)
+    ↓
+Dense(256) + ReLU + Dropout(0.3)
+    ↓
+Dense(128) + ReLU + Dropout(0.2)
+    ↓
+Output Layer (sigmoid/softmax)
+```
+
+- Bridge between classical ML and deep learning
+- Tests if neural networks add value
+- **Expected Performance**: 82-86% AUROC
+
+### **Phase 3: Advanced Deep Learning** (Only if baselines plateau)
+
+#### **3A. Graph Neural Networks (GNN)**
 ```
 Drug A + Drug B → GNN Encoder → Interaction Predictor → ADE Type + Severity
 ```
 - **Node Features**: Molecular fingerprints, side effect profiles, targets
 - **Edge Features**: Known interactions, co-prescription frequency
-- **Architecture**: GraphSAGE / Graph Attention Networks (GAT)
+- **Architectures**: 
+  - GraphSAGE (good for large graphs)
+  - Graph Attention Networks (GAT) - adds interpretability
+  - Graph Convolutional Networks (GCN)
+- **Expected Performance**: 87-91% AUROC
+- **When to use**: If you want to model the entire drug interaction network
 
-#### 2. **Transformer-Based (Secondary)**
-- SMILES-based encoding using ChemBERT
+#### **3B. Transformer-Based Models** (Advanced)
+- SMILES-based encoding using ChemBERT/MolBERT
 - Multi-head attention for drug pair interactions
-- Fine-tuned on DDI prediction task
+- Pre-trained on chemical literature
+- **Expected Performance**: 85-89% AUROC
+- **Trade-off**: High computational cost
 
-#### 3. **Ensemble Approach (Advanced)**
-- Combines GNN + Transformer predictions
-- Weighted voting based on confidence scores
+#### **3C. Ensemble Approach** (Optional)
+- Combines predictions from multiple models
+- Weighted voting or stacking
+- Often gives 1-3% boost but adds complexity
+
+
+### **Recommended Starting Point for Your Project**
+
+```
+Week 1-2: Data preprocessing + EDA
+Week 3: Implement Logistic Regression, Random Forest, XGBoost
+Week 4: Feature engineering improvements based on baselines
+Week 5-6: Implement MLP neural network
+Week 7-8: (Optional) Implement GNN if you want to go advanced
+Week 9-10: Evaluation, explainability, web app
 
 ## Tech Stack
 
