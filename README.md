@@ -13,7 +13,6 @@ This project leverages deep learning to predict adverse drug events (ADEs) resul
 - **30% of elderly patients** take 5+ medications simultaneously
 - **Early DDI detection** can prevent hospitalizations and improve patient safety
 
----
 
 ## Dataset
 
@@ -28,7 +27,6 @@ This project leverages deep learning to predict adverse drug events (ADEs) resul
 - **DrugBank**: Drug properties, molecular structures, protein targets
 - **PubChem**: SMILES strings and molecular fingerprints
 
----
 
 ## Architecture
 
@@ -51,8 +49,6 @@ Drug A + Drug B → GNN Encoder → Interaction Predictor → ADE Type + Severit
 - Combines GNN + Transformer predictions
 - Weighted voting based on confidence scores
 
----
-
 ## Tech Stack
 
 ### Core Libraries
@@ -72,8 +68,6 @@ Drug A + Drug B → GNN Encoder → Interaction Predictor → ADE Type + Severit
 - Gradio/Streamlit (web interface)
 - W&B / TensorBoard (experiment tracking)
 ```
-
----
 
 ## Project Structure
 
@@ -117,8 +111,6 @@ drug-drug-interaction-prediction/
 ├── setup.py
 └── README.md
 ```
-
----
 
 ## Getting Started
 
@@ -166,8 +158,6 @@ python src/training/train_gnn.py --model graphsage --epochs 100
 # Launch web interface
 streamlit run app/streamlit_app.py
 ```
-
----
 
 ##  Key Features
 
