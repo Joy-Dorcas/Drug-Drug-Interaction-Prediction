@@ -105,6 +105,7 @@ By leveraging deep learning on comprehensive pharmacovigilance data, we aim to c
 - **OffSIDES**: Individual drug side effects (used as node features)
 - **DrugBank**: Drug properties, molecular structures, protein targets
 - **PubChem**: SMILES strings and molecular fingerprints
+<img width="1962" height="1052" alt="image" src="https://github.com/user-attachments/assets/7a18989b-d42c-4b08-b96d-6fc6de629d46" />
 
 
 ## 🏗️ Methodology & Architecture
