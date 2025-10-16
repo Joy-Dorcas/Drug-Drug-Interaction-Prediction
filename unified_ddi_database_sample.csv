@@ -1,0 +1,2347 @@
+drug_name,drug_product_id,drug_source,drug_rxnorm_name,drug_term_type,active_ingredient,ingredient_term_type,adverse_effect,adverse_effect_type,label_section,match_method,label_id,effect_id,meddra_id,product_label_id,ingredient_id
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,,,,SM,270,1,10050659,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Stomatitis,PT,,SM,270,2,10042128,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Dry mouth,PT,,SM,270,3,10013781,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Glossodynia,PT,,SM,270,4,10018388,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Inappetence,LLT,,SM,270,5,10054792,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Nausea,PT,,SM,270,6,10028813,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,,,,SM,270,7,10002013,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Constipation,PT,,SM,270,8,10010774,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Vomiting,PT,,SM,270,9,10047700,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Dyspepsia,PT,,SM,270,10,10013946,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Dysphagia,PT,,SM,270,11,10013950,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Gastritis,PT,,SM,270,12,10017853,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Gastrooesophageal reflux,LLT,,SM,270,13,10017884,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Oesophageal reflux,LLT,,SM,270,14,10030182,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Gastrooesophageal reflux disease,PT,,SM,270,15,10017885,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Illness,PT,,SM,270,16,10080284,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,,,,SM,270,17,10004683,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Cholangitis,PT,,SM,270,18,10008604,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,,,,SM,270,19,10004683,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Cholangitis,PT,,SM,270,20,10008604,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Pain,PT,,SM,270,21,10033371,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Pain,PT,,SM,270,22,10033371,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Abdominal pain,PT,,SM,270,23,10000081,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Bone pain,PT,,SM,270,24,10006002,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Headache,PT,,SM,270,25,10019211,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Pain,PT,,SM,270,26,10033371,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Fatigue,PT,,SM,270,27,10016256,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,,,,SM,270,28,10047890,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,,,,SM,270,29,10047895,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Pyrexia,PT,,SM,270,30,10037660,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Infection,PT,,SM,270,31,10021789,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Oedema,PT,,SM,270,32,10030095,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Taste abnormality,LLT,,SM,270,33,10043123,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Mucosal inflammation,PT,,SM,270,34,10028116,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Inflammation,PT,,SM,270,35,10061218,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,,,,SM,270,36,10034939,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Acidaemia,LLT,,SM,270,37,10060699,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,,,,SM,270,38,10036439,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Hypokalaemia,PT,,SM,270,39,10021015,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Influenza,PT,,SM,270,40,10022000,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Flu like symptoms,LLT,,SM,270,41,10016791,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Helplessness,PT,,SM,270,42,10077169,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Asthenia,PT,,SM,270,43,10003549,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Dehydration,PT,,SM,270,44,10012174,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Thyroid function decreased,LLT,,SM,270,45,10043727,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Thyroid function increased,LLT,,SM,270,46,10085640,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,,,,SM,270,47,10036439,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Hyperkalaemia,PT,,SM,270,48,10020646,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Erectile dysfunction,PT,,SM,270,49,10061461,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Feminisation,LLT,,SM,270,50,10016423,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Gynaecomastia,PT,,SM,270,51,10018800,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Folliculitis,PT,,SM,270,52,10016936,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Pain,PT,,SM,270,53,10033371,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Pain,PT,,SM,270,54,10033371,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Abdominal pain,PT,,SM,270,55,10000081,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Bone pain,PT,,SM,270,56,10006002,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Headache,PT,,SM,270,57,10019211,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Pain,PT,,SM,270,58,10033371,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Fatigue,PT,,SM,270,59,10016256,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,,,,SM,270,60,10047890,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,,,,SM,270,61,10047895,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Pyrexia,PT,,SM,270,62,10037660,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Infection,PT,,SM,270,63,10021789,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Oedema,PT,,SM,270,64,10030095,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Taste abnormality,LLT,,SM,270,65,10043123,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Mucosal inflammation,PT,,SM,270,66,10028116,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Inflammation,PT,,SM,270,67,10061218,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,,,,SM,270,68,10034939,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Acidaemia,LLT,,SM,270,69,10060699,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,,,,SM,270,70,10036439,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Hypokalaemia,PT,,SM,270,71,10021015,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Influenza,PT,,SM,270,72,10022000,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Flu like symptoms,LLT,,SM,270,73,10016791,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Helplessness,PT,,SM,270,74,10077169,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Asthenia,PT,,SM,270,75,10003549,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Dehydration,PT,,SM,270,76,10012174,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Thyroid function decreased,LLT,,SM,270,77,10043727,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Thyroid function increased,LLT,,SM,270,78,10085640,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,,,,SM,270,79,10036439,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Hyperkalaemia,PT,,SM,270,80,10020646,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Erectile dysfunction,PT,,SM,270,81,10061461,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Feminisation,LLT,,SM,270,82,10016423,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Gynaecomastia,PT,,SM,270,83,10018800,270,495881
+ネクサバール錠200mg,00054545,JP,SORAfenib (as SORAfenib tosylate) 200 MG Oral Tablet,TMSY,sorafenib,Ingredient,Folliculitis,PT,,SM,270,84,10016936,270,495881
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,,,,SM,686,85,10067484,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,,,,SM,686,86,10067484,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,,,,SM,686,87,10005727,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,,,,SM,686,88,10005734,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Syncope,PT,,SM,686,89,10042772,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,,,,SM,686,90,10005727,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,,,,SM,686,91,10005734,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Syncope,PT,,SM,686,92,10042772,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Haemorrhage,PT,,SM,686,93,10055798,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Haemorrhage of digestive tract,LLT,,SM,686,94,10018991,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Haemorrhage,PT,,SM,686,95,10055798,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Epistaxis,PT,,SM,686,96,10015090,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Haemorrhage,PT,,SM,686,97,10055798,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,,,,SM,686,98,10035545,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,,,,SM,686,99,10029380,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Thyroid function increased,LLT,,SM,686,100,10085640,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Hyperthyroidism,PT,,SM,686,101,10020850,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,,,,SM,686,102,10067484,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Haemorrhage,PT,,SM,686,103,10055798,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Bleeding tendency,LLT,,SM,686,104,10005134,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Haemoptysis,PT,,SM,686,105,10018964,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Pulmonary haemorrhage,PT,,SM,686,106,10037394,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Haemorrhage,PT,,SM,686,107,10055798,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Epistaxis,PT,,SM,686,108,10015090,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Haemorrhage,PT,,SM,686,109,10055798,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Metrorrhagia,LLT,,SM,686,110,10027514,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Uterine haemorrhage,PT,,SM,686,111,10046788,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Haemorrhage,PT,,SM,686,112,10055798,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Conjunctival haemorrhage,PT,,SM,686,113,10010719,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Haemorrhage,PT,,SM,686,114,10055798,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Purpura,PT,,SM,686,115,10037549,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Macule,PT,,SM,686,116,10025421,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Flushing,PT,,SM,686,117,10016825,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Hot flush,PT,,SM,686,118,10060800,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Palpitations,PT,,SM,686,119,10033557,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Hypotension,PT,,SM,686,120,10021097,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,,,,SM,686,121,10005727,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Nausea,PT,,SM,686,122,10028813,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Diarrhoea,PT,,SM,686,123,10012735,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Faeces soft,PT,,SM,686,124,10074859,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Vomiting,PT,,SM,686,125,10047700,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Abdominal pain,PT,,SM,686,126,10000081,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Abdominal pain upper,PT,,SM,686,127,10000087,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Pain in jaw,PT,,SM,686,128,10033433,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Pain in extremity,PT,,SM,686,129,10033425,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Melalgia,LLT,,SM,686,130,10059671,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Musculoskeletal pain,PT,,SM,686,131,10028391,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Myalgia,PT,,SM,686,132,10028411,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Headache,PT,,SM,686,133,10019211,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Dizziness,PT,,SM,686,134,10013573,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Head discomfort,PT,,SM,686,135,10019194,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Discomfort,PT,,SM,686,136,10013082,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Feeling abnormal,PT,,SM,686,137,10016322,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Sleeplessness,LLT,,SM,686,138,10041017,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Insomnia,PT,,SM,686,139,10022437,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Cough,PT,,SM,686,140,10011224,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Throat irritation,PT,,SM,686,141,10043521,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Dyspnoea,PT,,SM,686,142,10013968,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Oropharyngeal pain,PT,,SM,686,143,10068319,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Pharyngodynia,LLT,,SM,686,144,10074930,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Headache,PT,,SM,686,145,10019211,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Oropharyngeal discomfort,PT,,SM,686,146,10068318,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Pharynx discomfort,LLT,,SM,686,147,10034851,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Discomfort,PT,,SM,686,148,10013082,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Oral discomfort,PT,,SM,686,149,10030973,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Discomfort,PT,,SM,686,150,10013082,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Nasal congestion,PT,,SM,686,151,10028735,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Wheezing,PT,,SM,686,152,10047924,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Sputum,LLT,,SM,686,153,10041802,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Rash,PT,,SM,686,154,10037844,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Itching,LLT,,SM,686,155,10023084,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Pruritus,PT,,SM,686,156,10037087,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Pyrexia,PT,,SM,686,157,10037660,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Malaise,PT,,SM,686,158,10025482,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,Oedema,PT,,SM,686,159,10030095,686,343048
+トレプロスト吸入液1.74mg,00070742,JP,treprostinil 1 MG/ML Injectable Solution,PSN,treprostinil,Ingredient,,,,SM,686,160,10067484,686,343048
+"フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」56噴霧用 (後発品)
+フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」120噴霧用 (後発品)",00070762,JP,"Arnuity 100 MCG/INHAL Dry Powder Inhaler, 30 Blisters",SY,,,,,,SM,2703,161,10067484,2703,
+"フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」56噴霧用 (後発品)
+フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」120噴霧用 (後発品)",00070762,JP,"Arnuity 100 MCG/INHAL Dry Powder Inhaler, 30 Blisters",SY,,,,,,SM,2703,162,10067484,2703,
+"フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」56噴霧用 (後発品)
+フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」120噴霧用 (後発品)",00070762,JP,"Arnuity 100 MCG/INHAL Dry Powder Inhaler, 30 Blisters",SY,,,Anaphylaxis,LLT,,SM,2703,163,10002218,2703,
+"フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」56噴霧用 (後発品)
+フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」120噴霧用 (後発品)",00070762,JP,"Arnuity 100 MCG/INHAL Dry Powder Inhaler, 30 Blisters",SY,,,Anaphylactic reaction,PT,,SM,2703,164,10002198,2703,
+"フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」56噴霧用 (後発品)
+フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」120噴霧用 (後発品)",00070762,JP,"Arnuity 100 MCG/INHAL Dry Powder Inhaler, 30 Blisters",SY,,,,,,SM,2703,165,10067484,2703,
+"フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」56噴霧用 (後発品)
+フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」120噴霧用 (後発品)",00070762,JP,"Arnuity 100 MCG/INHAL Dry Powder Inhaler, 30 Blisters",SY,,,Erethism,LLT,,SM,2703,166,10015123,2703,
+"フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」56噴霧用 (後発品)
+フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」120噴霧用 (後発品)",00070762,JP,"Arnuity 100 MCG/INHAL Dry Powder Inhaler, 30 Blisters",SY,,,Hypersensitivity,PT,,SM,2703,167,10020751,2703,
+"フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」56噴霧用 (後発品)
+フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」120噴霧用 (後発品)",00070762,JP,"Arnuity 100 MCG/INHAL Dry Powder Inhaler, 30 Blisters",SY,,,Rash,PT,,SM,2703,168,10037844,2703,
+"フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」56噴霧用 (後発品)
+フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」120噴霧用 (後発品)",00070762,JP,"Arnuity 100 MCG/INHAL Dry Powder Inhaler, 30 Blisters",SY,,,Oedema,PT,,SM,2703,169,10030095,2703,
+"フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」56噴霧用 (後発品)
+フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」120噴霧用 (後発品)",00070762,JP,"Arnuity 100 MCG/INHAL Dry Powder Inhaler, 30 Blisters",SY,,,Urticaria,PT,,SM,2703,170,10046735,2703,
+"フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」56噴霧用 (後発品)
+フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」120噴霧用 (後発品)",00070762,JP,"Arnuity 100 MCG/INHAL Dry Powder Inhaler, 30 Blisters",SY,,,Measles,PT,,SM,2703,171,10027011,2703,
+"フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」56噴霧用 (後発品)
+フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」120噴霧用 (後発品)",00070762,JP,"Arnuity 100 MCG/INHAL Dry Powder Inhaler, 30 Blisters",SY,,,Epistaxis,PT,,SM,2703,172,10015090,2703,
+"フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」56噴霧用 (後発品)
+フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」120噴霧用 (後発品)",00070762,JP,"Arnuity 100 MCG/INHAL Dry Powder Inhaler, 30 Blisters",SY,,,Haemorrhage,PT,,SM,2703,173,10055798,2703,
+"フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」56噴霧用 (後発品)
+フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」120噴霧用 (後発品)",00070762,JP,"Arnuity 100 MCG/INHAL Dry Powder Inhaler, 30 Blisters",SY,,,Pain,PT,,SM,2703,174,10033371,2703,
+"フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」56噴霧用 (後発品)
+フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」120噴霧用 (後発品)",00070762,JP,"Arnuity 100 MCG/INHAL Dry Powder Inhaler, 30 Blisters",SY,,,Nasal ulcer,PT,,SM,2703,175,10028780,2703,
+"フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」56噴霧用 (後発品)
+フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」120噴霧用 (後発品)",00070762,JP,"Arnuity 100 MCG/INHAL Dry Powder Inhaler, 30 Blisters",SY,,,Ulcer,PT,,SM,2703,176,10045285,2703,
+"フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」56噴霧用 (後発品)
+フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」120噴霧用 (後発品)",00070762,JP,"Arnuity 100 MCG/INHAL Dry Powder Inhaler, 30 Blisters",SY,,,Nasal septum perforation,PT,,SM,2703,177,10028765,2703,
+"フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」56噴霧用 (後発品)
+フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」120噴霧用 (後発品)",00070762,JP,"Arnuity 100 MCG/INHAL Dry Powder Inhaler, 30 Blisters",SY,,,Perforation,PT,,SM,2703,178,10076705,2703,
+"フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」56噴霧用 (後発品)
+フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」120噴霧用 (後発品)",00070762,JP,"Arnuity 100 MCG/INHAL Dry Powder Inhaler, 30 Blisters",SY,,,Headache,PT,,SM,2703,179,10019211,2703,
+"フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」56噴霧用 (後発品)
+フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」120噴霧用 (後発品)",00070762,JP,"Arnuity 100 MCG/INHAL Dry Powder Inhaler, 30 Blisters",SY,,,Sleep disorder,PT,,SM,2703,180,10040984,2703,
+"フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」56噴霧用 (後発品)
+フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」120噴霧用 (後発品)",00070762,JP,"Arnuity 100 MCG/INHAL Dry Powder Inhaler, 30 Blisters",SY,,,,,,SM,2703,181,10005455,2703,
+"フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」56噴霧用 (後発品)
+フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」120噴霧用 (後発品)",00070762,JP,"Arnuity 100 MCG/INHAL Dry Powder Inhaler, 30 Blisters",SY,,,,,,SM,2703,182,10011195,2703,
+"フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」56噴霧用 (後発品)
+フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」120噴霧用 (後発品)",00070762,JP,"Arnuity 100 MCG/INHAL Dry Powder Inhaler, 30 Blisters",SY,,,,,,SM,2703,183,10005457,2703,
+"フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」56噴霧用 (後発品)
+フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」120噴霧用 (後発品)",00070762,JP,"Arnuity 100 MCG/INHAL Dry Powder Inhaler, 30 Blisters",SY,,,,,,SM,2703,184,10011198,2703,
+"フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」56噴霧用 (後発品)
+フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」120噴霧用 (後発品)",00070762,JP,"Arnuity 100 MCG/INHAL Dry Powder Inhaler, 30 Blisters",SY,,,,,,SM,2703,185,10047955,2703,
+"フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」56噴霧用 (後発品)
+フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」120噴霧用 (後発品)",00070762,JP,"Arnuity 100 MCG/INHAL Dry Powder Inhaler, 30 Blisters",SY,,,,,,SM,2703,186,10047939,2703,
+"フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」56噴霧用 (後発品)
+フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」120噴霧用 (後発品)",00070762,JP,"Arnuity 100 MCG/INHAL Dry Powder Inhaler, 30 Blisters",SY,,,,,,SM,2703,187,10064196,2703,
+"フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」56噴霧用 (後発品)
+フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」120噴霧用 (後発品)",00070762,JP,"Arnuity 100 MCG/INHAL Dry Powder Inhaler, 30 Blisters",SY,,,,,,SM,2703,188,10047943,2703,
+"フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」56噴霧用 (後発品)
+フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」120噴霧用 (後発品)",00070762,JP,"Arnuity 100 MCG/INHAL Dry Powder Inhaler, 30 Blisters",SY,,,,,,SM,2703,189,10022801,2703,
+"フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」56噴霧用 (後発品)
+フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」120噴霧用 (後発品)",00070762,JP,"Arnuity 100 MCG/INHAL Dry Powder Inhaler, 30 Blisters",SY,,,,,,SM,2703,190,10022806,2703,
+"フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」56噴霧用 (後発品)
+フルチカゾンフランカルボン酸エステル点鼻液27.5μg「トーワ」120噴霧用 (後発品)",00070762,JP,"Arnuity 100 MCG/INHAL Dry Powder Inhaler, 30 Blisters",SY,,,,,,SM,2703,191,10067484,2703,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,,,,SM,3463,192,10067484,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,,,,SM,3463,193,10067484,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,Hepatic function disorder,LLT,,SM,3463,194,10019674,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,,,,SM,3463,195,10060105,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,,,,SM,3463,196,10062026,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,,,,SM,3463,197,10062026,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,Hepatic function disorder,LLT,,SM,3463,198,10019674,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,Hepatitis,PT,,SM,3463,199,10019717,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,Anaphylaxis,LLT,,SM,3463,200,10002218,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,,,,SM,3463,201,10023673,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,Lactic acidosis,PT,,SM,3463,202,10023676,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,Acidosis,PT,,SM,3463,203,10000486,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,,,,SM,3463,204,10023673,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,Lactic acidosis,PT,,SM,3463,205,10023676,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,Acidosis,PT,,SM,3463,206,10000486,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,Death,PT,,SM,3463,207,10011906,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,Hepatomegaly,PT,,SM,3463,208,10019842,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,Hepatic steatosis,PT,,SM,3463,209,10019708,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,Death,PT,,SM,3463,210,10011906,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,Hepatomegaly,PT,,SM,3463,211,10019842,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,Hepatic steatosis,PT,,SM,3463,212,10019708,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,,,,SM,3463,213,10067484,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,Gastrointestinal disorder,PT,,SM,3463,214,10017944,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,Diarrhoea,PT,,SM,3463,215,10012735,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,Nausea,PT,,SM,3463,216,10028813,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,Constipation,PT,,SM,3463,217,10010774,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,Abdominal pain upper,PT,,SM,3463,218,10000087,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,Malaise,PT,,SM,3463,219,10025482,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,Infection,PT,,SM,3463,220,10021789,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,Infestation,PT,,SM,3463,221,10061217,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,Parasitosis,LLT,,SM,3463,222,10065086,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,Pharyngitis,PT,,SM,3463,223,10034835,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,Connective tissue disorder,PT,,SM,3463,224,10061087,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,Muscle stiffness,LLT,,SM,3463,225,10028339,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,Nervous system disorder,PT,,SM,3463,226,10029202,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,Headache,PT,,SM,3463,227,10019211,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,Dizziness,PT,,SM,3463,228,10013573,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,Rash,PT,,SM,3463,229,10037844,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,,,,SM,3463,230,10059938,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,,,,SM,3463,231,10062026,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,,,,SM,3463,232,10005326,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,,,,SM,3463,233,10002013,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,,,,SM,3463,234,10005328,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,,,,SM,3463,235,10002016,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,,,,SM,3463,236,10050659,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,,,,SM,3463,237,10024574,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,,,,SM,3463,238,10005632,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,,,,SM,3463,239,10023673,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,,,,SM,3463,240,10005635,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,,,,SM,3463,241,10047955,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,,,,SM,3463,242,10047939,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,,,,SM,3463,243,10064196,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,,,,SM,3463,244,10047942,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,,,,SM,3463,245,10005362,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,,,,SM,3463,246,10004683,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,,,,SM,3463,247,10005364,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,,,,SM,3463,248,10004690,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,,,,SM,3463,249,10005553,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,,,,SM,3463,250,10018414,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,,,,SM,3463,251,10005557,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,,,,SM,3463,252,10018421,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,,,,SM,3463,253,10084960,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,,,,SM,3463,254,10052287,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,,,,SM,3463,255,10050663,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,,,,SM,3463,256,10047955,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,,,,SM,3463,257,10047967,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,,,,SM,3463,258,10014963,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,,,,SM,3463,259,10014941,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,,,,SM,3463,260,10014945,3463,
+エンテカビル錠0.5mg「YD」 (後発品),00066759,JP,entecavir 0.5 MG Oral Tablet [Baraclude],SBD,,,,,,SM,3463,261,10067484,3463,
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,,,,SM,1194,262,10067484,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,,,,SM,1194,263,10067484,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Bradycardia,PT,,SM,1194,264,10006093,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Cardiac failure,PT,,SM,1194,265,10007554,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Atrioventricular block,PT,,SM,1194,266,10003671,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Sinoatrial block,PT,,SM,1194,267,10040736,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Syncope,PT,,SM,1194,268,10042772,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Orthostatic hypotension,PT,,SM,1194,269,10031127,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Hypotension,PT,,SM,1194,270,10021097,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,,,,SM,1194,271,10005727,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Dyspnoea,PT,,SM,1194,272,10013968,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Wheezing,PT,,SM,1194,273,10047924,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Bronchospasm,PT,,SM,1194,274,10006482,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Convulsion,LLT,,SM,1194,275,10010904,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,,,,SM,1194,276,10035545,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Thrombocytopenia,PT,,SM,1194,277,10043554,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Purpura,PT,,SM,1194,278,10037549,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Macule,PT,,SM,1194,279,10025421,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Peliosis,LLT,,SM,1194,280,10034228,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,,,,SM,1194,281,10067484,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Erethism,LLT,,SM,1194,282,10015123,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Hypersensitivity,PT,,SM,1194,283,10020751,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Rash,PT,,SM,1194,284,10037844,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Itching,LLT,,SM,1194,285,10023084,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Vision blurred,PT,,SM,1194,286,10047513,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Discharge,PT,,SM,1194,287,10080907,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Hypotension,PT,,SM,1194,288,10021097,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,,,,SM,1194,289,10005727,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Chest pressure sensation,LLT,,SM,1194,290,10008487,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Sensation of pressure,LLT,,SM,1194,291,10040003,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Palpitations,PT,,SM,1194,292,10033557,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Cold extremities,LLT,,SM,1194,293,10009857,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Feeling cold,PT,,SM,1194,294,10016326,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Intermittent claudication,PT,,SM,1194,295,10022562,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Claudication,LLT,,SM,1194,296,10009240,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Headache,PT,,SM,1194,297,10019211,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Depression,PT,,SM,1194,298,10012378,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Tinnitus,PT,,SM,1194,299,10043882,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Ear pain,PT,,SM,1194,300,10014020,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Sleeplessness,LLT,,SM,1194,301,10041017,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Sleepiness,LLT,,SM,1194,302,10041014,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Confusion,LLT,,SM,1194,303,10010300,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Nightmare,PT,,SM,1194,304,10029412,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Thirst,PT,,SM,1194,305,10043458,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Vomiting,PT,,SM,1194,306,10047700,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Inappetence,LLT,,SM,1194,307,10054792,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Diarrhoea,PT,,SM,1194,308,10012735,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Constipation,PT,,SM,1194,309,10010774,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Abdominal pain,PT,,SM,1194,310,10000081,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Nausea,PT,,SM,1194,311,10028813,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Queasy,LLT,,SM,1194,312,10037730,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Abdominal discomfort,PT,,SM,1194,313,10000059,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Discomfort,PT,,SM,1194,314,10013082,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Faeces soft,PT,,SM,1194,315,10074859,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Cholestasis,PT,,SM,1194,316,10008635,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Hepatitis cholestatic,PT,,SM,1194,317,10019754,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Hepatitis,PT,,SM,1194,318,10019717,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,,,,SM,1194,319,10011358,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Weakness,LLT,,SM,1194,320,10047862,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Feelings of weakness,LLT,,SM,1194,321,10016373,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Numbness,LLT,,SM,1194,322,10029829,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Oedema,PT,,SM,1194,323,10030095,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Oedema peripheral,PT,,SM,1194,324,10030124,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Oedema,PT,,SM,1194,325,10030095,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Hyperlipidaemia,PT,,SM,1194,326,10062060,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Cold sweat,PT,,SM,1194,327,10009866,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Pollakiuria,PT,,SM,1194,328,10036018,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Hyperglycaemia,PT,,SM,1194,329,10020635,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,,,,SM,1194,330,10066981,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Hyperuricaemia,PT,,SM,1194,331,10020903,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Acidaemia,LLT,,SM,1194,332,10060699,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Psoriasis,PT,,SM,1194,333,10037153,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Rash psoriasiform,LLT,,SM,1194,334,10065980,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Skin eruption,LLT,,SM,1194,335,10040841,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,Psoriasis,PT,,SM,1194,336,10037153,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,,,,SM,1194,337,10002807,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,,,,SM,1194,338,10029811,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,,,,SM,1194,339,10060055,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,,,,SM,1194,340,10060959,1194,1202
+"アテノロール錠25mg「ツルハラ」 (後発品)
+アテノロール錠50mg「ツルハラ」 (後発品)",00065079,JP,atenolol 50 MG Oral Tablet,PSN,atenolol,Ingredient,,,,SM,1194,341,10067484,1194,1202
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,,,,SM,452,342,10067484,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,,,,SM,452,343,10067484,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Serotonin syndrome,PT,,SM,452,344,10040108,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Anxiety,PT,,SM,452,345,10002855,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Excitement,LLT,,SM,452,346,10015627,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Confusion,LLT,,SM,452,347,10010300,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Sweaty,LLT,,SM,452,348,10042670,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Diarrhoea,PT,,SM,452,349,10012735,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Pyrexia,PT,,SM,452,350,10037660,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Hypertension,PT,,SM,452,351,10020772,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,,,,SM,452,352,10005727,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Rigidity,LLT,,SM,452,353,10039168,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Tachycardia,PT,,SM,452,354,10043071,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Myoclonus,PT,,SM,452,355,10028622,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Anxiety,PT,,SM,452,356,10002855,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Autonomic instability,LLT,,SM,452,357,10049218,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Unsteadiness,LLT,,SM,452,358,10046260,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Agranulocytosis,PT,,SM,452,359,10001507,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,,,,SM,452,360,10029380,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Neutropenia,PT,,SM,452,361,10029354,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Infection,PT,,SM,452,362,10021789,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,,,,SM,452,363,10061726,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,,,,SM,452,364,10062026,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Convulsion,LLT,,SM,452,365,10010904,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Hepatic function disorder,LLT,,SM,452,366,10019674,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Jaundice,PT,,SM,452,367,10023126,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Hepatic function disorder,LLT,,SM,452,368,10019674,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Jaundice,PT,,SM,452,369,10023126,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Antidiuresis,LLT,,SM,452,370,10002774,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Diuresis,LLT,,SM,452,371,10013523,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,,,,SM,452,372,10002775,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Inappropriate antidiuretic hormone secretion,PT,,SM,452,373,10053198,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Discharge,PT,,SM,452,374,10080907,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Syndrome of inappropriate antidiuretic hormone secretion,LLT,,SM,452,375,10087107,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,,,,SM,452,376,10041263,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Hyponatraemia,PT,,SM,452,377,10021036,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,,,,SM,452,378,10060129,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Blood hyposmosis,PT,,SM,452,379,10005582,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,,,,SM,452,380,10049510,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,,,,SM,452,381,10041263,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Hypersthenuria,PT,,SM,452,382,10020770,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Convulsion,LLT,,SM,452,383,10010904,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Consciousness disturbed,LLT,,SM,452,384,10010770,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Antidiuresis,LLT,,SM,452,385,10002774,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Diuresis,LLT,,SM,452,386,10013523,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,,,,SM,452,387,10002775,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Inappropriate antidiuretic hormone secretion,PT,,SM,452,388,10053198,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Discharge,PT,,SM,452,389,10080907,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Syndrome of inappropriate antidiuretic hormone secretion,LLT,,SM,452,390,10087107,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Oculomucocutaneous syndrome,PT,,SM,452,391,10030081,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Erythema multiforme,PT,,SM,452,392,10015218,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Erythema,PT,,SM,452,393,10015150,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Macule,PT,,SM,452,394,10025421,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,,,,SM,452,395,10067484,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,General symptom,PT,,SM,452,396,10060891,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,,,,SM,452,397,10047890,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,,,,SM,452,398,10047899,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Malaise,PT,,SM,452,399,10025482,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Feeling abnormal,PT,,SM,452,400,10016322,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Oedema peripheral,PT,,SM,452,401,10030124,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Oedema,PT,,SM,452,402,10030095,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Chest pain,PT,,SM,452,403,10008479,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Irritability,PT,,SM,452,404,10022998,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Oedema,PT,,SM,452,405,10030095,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Peripheral coldness,PT,,SM,452,406,10034568,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Feeling cold,PT,,SM,452,407,10016326,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,,,,SM,452,408,10047890,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,,,,SM,452,409,10047895,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Fatigue,PT,,SM,452,410,10016256,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Discharge,PT,,SM,452,411,10080907,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,,,,SM,452,412,10036822,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Hyperprolactinaemia,PT,,SM,452,413,10020737,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Galactorrhoea,PT,,SM,452,414,10017600,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Feminisation,LLT,,SM,452,415,10016423,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Gynaecomastia,PT,,SM,452,416,10018800,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Somnolence,PT,,SM,452,417,10041349,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Dizziness,PT,,SM,452,418,10013573,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Headache,PT,,SM,452,419,10019211,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Dizziness postural,PT,,SM,452,420,10013578,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Hypoaesthesia,PT,,SM,452,421,10020937,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Obtundation,LLT,,SM,452,422,10029985,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Tremor,PT,,SM,452,423,10044565,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Sleeplessness,LLT,,SM,452,424,10041017,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Insomnia,PT,,SM,452,425,10022437,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Dysarthria,PT,,SM,452,426,10013887,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Disturbance in attention,PT,,SM,452,427,10013496,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Akathisia,PT,,SM,452,428,10001540,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Convulsion,LLT,,SM,452,429,10010904,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Nightmare,PT,,SM,452,430,10029412,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Sedation,PT,,SM,452,431,10039897,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Paraesthesia,PT,,SM,452,432,10033775,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Restless legs,LLT,,SM,452,433,10038742,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Restless legs syndrome,PT,,SM,452,434,10058920,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Abnormal dreams,PT,,SM,452,435,10000125,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Anxiety,PT,,SM,452,436,10002855,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Hypomania,PT,,SM,452,437,10021030,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Mania,PT,,SM,452,438,10026749,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Agitation,PT,,SM,452,439,10001497,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Confusion,LLT,,SM,452,440,10010300,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Hyperkinesia,PT,,SM,452,441,10020651,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Myoclonus,PT,,SM,452,442,10028622,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Syncope,PT,,SM,452,443,10042772,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Hallucination,PT,,SM,452,444,10019063,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Unrest,LLT,,SM,452,445,10045556,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Lethargy,PT,,SM,452,446,10024264,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Paraesthesia oral,PT,,SM,452,447,10057372,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Paraesthesia,PT,,SM,452,448,10033775,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Aggression,PT,,SM,452,449,10001488,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Amnesia,PT,,SM,452,450,10001949,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Constipation,PT,,SM,452,451,10010774,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Thirst,PT,,SM,452,452,10043458,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Abdominal pain upper,PT,,SM,452,453,10000087,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Diarrhoea,PT,,SM,452,454,10012735,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Nausea,PT,,SM,452,455,10028813,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Stomach discomfort,LLT,,SM,452,456,10042101,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Discomfort,PT,,SM,452,457,10013082,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Vomiting,PT,,SM,452,458,10047700,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Abdominal distension,PT,,SM,452,459,10000060,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Abdominal pain,PT,,SM,452,460,10000081,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Dry mouth,PT,,SM,452,461,10013781,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Eructation,PT,,SM,452,462,10015137,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Hypoaesthesia oral,PT,,SM,452,463,10057371,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Hypoaesthesia,PT,,SM,452,464,10020937,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Obtundation,LLT,,SM,452,465,10029985,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Oedema mouth,PT,,SM,452,466,10030110,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Oedema,PT,,SM,452,467,10030095,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Discharge,PT,,SM,452,468,10080907,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Saliva secretion increased,LLT,,SM,452,469,10039383,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Palpitations,PT,,SM,452,470,10033557,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,,,,SM,452,471,10005727,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,,,,SM,452,472,10005750,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,,,,SM,452,473,10019299,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,,,,SM,452,474,10019303,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Orthostatic hypotension,PT,,SM,452,475,10031127,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Hypotension,PT,,SM,452,476,10021097,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,,,,SM,452,477,10005727,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Hypotension,PT,,SM,452,478,10021097,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,,,,SM,452,479,10005727,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Hiccups,PT,,SM,452,480,10020039,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,,,,SM,452,481,10018876,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,,,,SM,452,482,10018884,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,,,,SM,452,483,10047955,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,,,,SM,452,484,10049182,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,,,,SM,452,485,10047955,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,,,,SM,452,486,10014963,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,,,,SM,452,487,10029380,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,,,,SM,452,488,10034939,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,,,,SM,452,489,10025263,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Aplastic anaemia,PT,,SM,452,490,10002967,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Anaemia,PT,,SM,452,491,10002034,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,,,,SM,452,492,10035545,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Thrombocytopenia,PT,,SM,452,493,10043554,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Erythema,PT,,SM,452,494,10015150,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Macule,PT,,SM,452,495,10025421,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Heavy sweating,LLT,,SM,452,496,10019362,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Hyperhidrosis,PT,,SM,452,497,10020642,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Itching,LLT,,SM,452,498,10023084,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Pruritus,PT,,SM,452,499,10037087,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Rash,PT,,SM,452,500,10037844,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Blister,PT,,SM,452,501,10005191,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Accommodation disorder,PT,,SM,452,502,10000389,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Eyelid oedema,PT,,SM,452,503,10015993,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Oedema,PT,,SM,452,504,10030095,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Visual disturbance,LLT,,SM,452,505,10047543,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,,,,SM,452,506,10004683,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Pollakiuria,PT,,SM,452,507,10036018,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,,,,SM,452,508,10042455,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,,,,SM,452,509,10046678,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,,,,SM,452,510,10037018,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,,,,SM,452,511,10036987,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,,,,SM,452,512,10046554,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Urinary retention,PT,,SM,452,513,10046555,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Dysuria,PT,,SM,452,514,10013990,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Metrorrhagia,LLT,,SM,452,515,10027514,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Uterine haemorrhage,PT,,SM,452,516,10046788,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Haemorrhage,PT,,SM,452,517,10055798,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Priapism,PT,,SM,452,518,10036661,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Arthralgia,PT,,SM,452,519,10003239,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Myalgia,PT,,SM,452,520,10028411,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Muscular weakness,PT,,SM,452,521,10028372,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Back pain,PT,,SM,452,522,10003988,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Limb discomfort,PT,,SM,452,523,10061224,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Discomfort,PT,,SM,452,524,10013082,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Hyperphagia,PT,,SM,452,525,10020710,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Increased appetite,PT,,SM,452,526,10021654,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,,,,SM,452,527,10008650,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,Inappetence,LLT,,SM,452,528,10054792,452,15996
+"ミルタザピン錠15mg「TCK」 (後発品)
+ミルタザピン錠30mg「TCK」 (後発品)",00067704,JP,mirtazapine 15 MG Oral Tablet,SCD,mirtazapine,Ingredient,,,,SM,452,529,10067484,452,15996
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,,,,SM,3464,530,10067484,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,,,,SM,3464,531,10067484,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,Hepatic function disorder,LLT,,SM,3464,532,10019674,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,Hepatic function disorder,LLT,,SM,3464,533,10019674,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,Erethism,LLT,,SM,3464,534,10015123,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,Hypersensitivity,PT,,SM,3464,535,10020751,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,Rash generalised,LLT,,SM,3464,536,10037858,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,Skin eruption,LLT,,SM,3464,537,10040841,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,Rash,PT,,SM,3464,538,10037844,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,Erethism,LLT,,SM,3464,539,10015123,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,Hypersensitivity,PT,,SM,3464,540,10020751,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,,,,SM,3464,541,10067484,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,,,,SM,3464,542,10047955,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,,,,SM,3464,543,10047939,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,,,,SM,3464,544,10064196,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,,,,SM,3464,545,10047942,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,,,,SM,3464,546,10035525,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,,,,SM,3464,547,10035528,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,Anaemia,PT,,SM,3464,548,10002034,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,Discharge,PT,,SM,3464,549,10080907,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,Numbness in feet,LLT,,SM,3464,550,10049800,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,Numbness,LLT,,SM,3464,551,10029829,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,Dizziness,PT,,SM,3464,552,10013573,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,Somnolence,PT,,SM,3464,553,10041349,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,Headache,PT,,SM,3464,554,10019211,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,Taste abnormality,LLT,,SM,3464,555,10043123,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,,,,SM,3464,556,10014362,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,,,,SM,3464,557,10014363,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,Palpitations,PT,,SM,3464,558,10033557,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,Diarrhoea,PT,,SM,3464,559,10012735,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,Abdominal discomfort,PT,,SM,3464,560,10000059,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,Discomfort,PT,,SM,3464,561,10013082,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,Nausea,PT,,SM,3464,562,10028813,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,Abdominal pain,PT,,SM,3464,563,10000081,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,,,,SM,3464,564,10060105,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,,,,SM,3464,565,10062026,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,Rash,PT,,SM,3464,566,10037844,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,Itching,LLT,,SM,3464,567,10023084,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,Pruritus,PT,,SM,3464,568,10037087,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,Erythema,PT,,SM,3464,569,10015150,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,Macule,PT,,SM,3464,570,10025421,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,Urticaria,PT,,SM,3464,571,10046735,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,Measles,PT,,SM,3464,572,10027011,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,Arthralgia,PT,,SM,3464,573,10003239,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,Pain in extremity,PT,,SM,3464,574,10033425,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,Melalgia,LLT,,SM,3464,575,10059671,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,Limb discomfort,PT,,SM,3464,576,10061224,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,Discomfort,PT,,SM,3464,577,10013082,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,Myalgia,PT,,SM,3464,578,10028411,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,,,,SM,3464,579,10018342,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,,,,SM,3464,580,10034939,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,,,,SM,3464,581,10018350,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,,,,SM,3464,582,10005480,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,,,,SM,3464,583,10011358,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,,,,SM,3464,584,10005483,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,,,,SM,3464,585,10011368,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,,,,SM,3464,586,10005845,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,,,,SM,3464,587,10046346,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,,,,SM,3464,588,10005851,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,,,,SM,3464,589,10046353,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,Pollakiuria,PT,,SM,3464,590,10036018,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,,,,SM,3464,591,10059894,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,,,,SM,3464,592,10059895,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,Malaise,PT,,SM,3464,593,10025482,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,Thirst,PT,,SM,3464,594,10043458,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,,,,SM,3464,595,10005836,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,,,,SM,3464,596,10044660,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,,,,SM,3464,597,10005839,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,,,,SM,3464,598,10044659,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,,,,SM,3464,599,10005721,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,,,,SM,3464,600,10036439,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,,,,SM,3464,601,10005725,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,,,,SM,3464,602,10036450,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,Oedema,PT,,SM,3464,603,10030095,3464,73689
+"フェブキソスタット錠10mg「TCK」 (後発品)
+フェブキソスタット錠20mg「TCK」 (後発品)
+フェブキソスタット錠40mg「TCK」 (後発品)",00070248,JP,febuxostat 40 MG Oral Tablet,PSN,febuxostat,Ingredient,,,,SM,3464,604,10067484,3464,73689
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,,,,SM,2206,605,10067484,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,,,,SM,2206,606,10067484,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Convulsion,LLT,,SM,2206,607,10010904,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Thyroid function increased,LLT,,SM,2206,608,10085640,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Hyperthyroidism,PT,,SM,2206,609,10020850,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Nephrosis,LLT,,SM,2206,610,10029161,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Nephrotic syndrome,PT,,SM,2206,611,10029164,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Glycosuria,PT,,SM,2206,612,10018473,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Diabetes mellitus,PT,,SM,2206,613,10012601,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,,,,SM,2206,614,10018428,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Glycosuria,PT,,SM,2206,615,10018473,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Diabetes mellitus,PT,,SM,2206,616,10012601,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,,,,SM,2206,617,10067484,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Gastrointestinal disorder,PT,,SM,2206,618,10017944,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Vomiting,PT,,SM,2206,619,10047700,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,,,,SM,2206,620,10052995,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Injection site pain,PT,,SM,2206,621,10022086,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Pain,PT,,SM,2206,622,10033371,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,,,,SM,2206,623,10052995,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Injection site erythema,PT,,SM,2206,624,10022061,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Erythema,PT,,SM,2206,625,10015150,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Macule,PT,,SM,2206,626,10025421,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,,,,SM,2206,627,10052995,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Itching,LLT,,SM,2206,628,10023084,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Injection site pruritus,PT,,SM,2206,629,10022093,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,,,,SM,2206,630,10052995,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Injection site swelling,PT,,SM,2206,631,10053425,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Swelling,PT,,SM,2206,632,10042674,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,,,,SM,2206,633,10052995,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Injection site induration,PT,,SM,2206,634,10022075,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Induration,PT,,SM,2206,635,10060708,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,,,,SM,2206,636,10052995,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Injection site haemorrhage,PT,,SM,2206,637,10022067,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Haemorrhage,PT,,SM,2206,638,10055798,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,,,,SM,2206,639,10052995,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Injection site bruising,PT,,SM,2206,640,10022052,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Internal haemorrhage,PT,,SM,2206,641,10075192,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Haemorrhage,PT,,SM,2206,642,10055798,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,,,,SM,2206,643,10052995,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Injection site warmth,PT,,SM,2206,644,10022112,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Feeling hot,PT,,SM,2206,645,10016334,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,,,,SM,2206,646,10052995,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Injection site inflammation,PT,,SM,2206,647,10022078,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Inflammation,PT,,SM,2206,648,10061218,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,,,,SM,2206,649,10052995,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Injection site hypertrophy,PT,,SM,2206,650,10022072,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,,,,SM,2206,651,10052995,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Injection site deformation,PT,,SM,2206,652,10079275,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Deformity,PT,,SM,2206,653,10061619,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,,,,SM,2206,654,10052995,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Injection site urticaria,PT,,SM,2206,655,10022107,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Urticaria,PT,,SM,2206,656,10046735,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Measles,PT,,SM,2206,657,10027011,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Eyelid oedema,PT,,SM,2206,658,10015993,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Oedema,PT,,SM,2206,659,10030095,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Connective tissue disorder,PT,,SM,2206,660,10061087,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Pain in extremity,PT,,SM,2206,661,10033425,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Melalgia,LLT,,SM,2206,662,10059671,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Synovitis,PT,,SM,2206,663,10042868,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Growing pains,PT,,SM,2206,664,10018745,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,,,,SM,2206,665,10034939,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Lymphatic disorder,PT,,SM,2206,666,10052314,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Anaemia,PT,,SM,2206,667,10002034,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,,,,SM,2206,668,10014963,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Eosinophilia,PT,,SM,2206,669,10014950,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Mediastinal disorder,PT,,SM,2206,670,10061280,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Tonsillar hypertrophy,PT,,SM,2206,671,10044003,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Hypertrophy,PT,,SM,2206,672,10020880,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Nervous system disorder,PT,,SM,2206,673,10029202,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Headache,PT,,SM,2206,674,10019211,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Hypoaesthesia,PT,,SM,2206,675,10020937,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Obtundation,LLT,,SM,2206,676,10029985,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Syncope,PT,,SM,2206,677,10042772,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Dizziness,PT,,SM,2206,678,10013573,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Urinary tract disorder,PT,,SM,2206,679,10046566,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Polyuria,PT,,SM,2206,680,10036142,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Mental disorder,PT,,SM,2206,681,10061284,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Irritability,PT,,SM,2206,682,10022998,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Sleeplessness,LLT,,SM,2206,683,10041017,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Initial insomnia,PT,,SM,2206,684,10022035,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Insomnia,PT,,SM,2206,685,10022437,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Malnutrition,PT,,SM,2206,686,10061273,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,,,,SM,2206,687,10022468,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,,,,SM,2206,688,10034939,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Hypoinsulinaemia,PT,,SM,2206,689,10070070,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Increased appetite,PT,,SM,2206,690,10021654,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,,,,SM,2206,691,10044660,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Hypertriglyceridaemia,PT,,SM,2206,692,10020869,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,,,,SM,2206,693,10008650,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Hypocholesterolaemia,PT,,SM,2206,694,10020961,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Hypoglycaemia,PT,,SM,2206,695,10020993,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Obesity,PT,,SM,2206,696,10029883,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Discharge,PT,,SM,2206,697,10080907,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Endocrine disorder,PT,,SM,2206,698,10014695,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Thyroid function decreased,LLT,,SM,2206,699,10043727,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Hypothyroidism,PT,,SM,2206,700,10021114,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Idiopathic urticaria,PT,,SM,2206,701,10021247,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Urticaria,PT,,SM,2206,702,10046735,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Measles,PT,,SM,2206,703,10027011,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Neoplasm,PT,,SM,2206,704,10028980,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Cyst,PT,,SM,2206,705,10011732,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Polyp,PT,,SM,2206,706,10061529,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Melanocytic naevus,PT,,SM,2206,707,10027145,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Naevus,LLT,,SM,2206,708,10028679,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,Macule,PT,,SM,2206,709,10025421,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,,,,SM,2206,710,10059938,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,,,,SM,2206,711,10062026,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,,,,SM,2206,712,10062727,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,,,,SM,2206,713,10017349,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,,,,SM,2206,714,10005461,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,,,,SM,2206,715,10011328,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,,,,SM,2206,716,10005467,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,,,,SM,2206,717,10011347,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,,,,SM,2206,718,10005470,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,,,,SM,2206,719,10011349,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,,,,SM,2206,720,10024900,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,,,,SM,2206,721,10036987,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,,,,SM,2206,722,10024909,2206,
+"エヌジェンラ皮下注24mgペン
+エヌジェンラ皮下注60mgペン",00070177,JP,1.2 ML somatrogon-ghla 20 MG/ML Pen Injector [Ngenla],SBD,,,,,,SM,2206,723,10067484,2206,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,,,,SM,3990,724,10067484,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,,,,SM,3990,725,10067484,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Hepatitis fulminant,PT,,SM,3990,726,10019772,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Hepatitis,PT,,SM,3990,727,10019717,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Hepatic function disorder,LLT,,SM,3990,728,10019674,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Jaundice,PT,,SM,3990,729,10023126,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Hepatic function disorder,LLT,,SM,3990,730,10019674,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Agranulocytosis,PT,,SM,3990,731,10001507,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,,,,SM,3990,732,10047955,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,,,,SM,3990,733,10049182,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,,,,SM,3990,734,10035545,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Atrioventricular block,PT,,SM,3990,735,10003671,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Bradycardia,PT,,SM,3990,736,10006093,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Muscle dissolution,LLT,,SM,3990,737,10028303,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Rhabdomyolysis,PT,,SM,3990,738,10039020,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Myalgia,PT,,SM,3990,739,10028411,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Weakness,LLT,,SM,3990,740,10047862,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Feelings of weakness,LLT,,SM,3990,741,10016373,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,,,,SM,3990,742,10028626,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Muscle dissolution,LLT,,SM,3990,743,10028303,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Rhabdomyolysis,PT,,SM,3990,744,10039020,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Acute kidney injury,PT,,SM,3990,745,10069339,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Renal disorder,PT,,SM,3990,746,10038428,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,,,,SM,3990,747,10067484,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Hepatic function disorder,LLT,,SM,3990,748,10019674,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Jaundice,PT,,SM,3990,749,10023126,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Ascites,PT,,SM,3990,750,10003445,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Oedema,PT,,SM,3990,751,10030095,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Hot flush,PT,,SM,3990,752,10060800,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Feeling hot,PT,,SM,3990,753,10016334,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Flushed face,LLT,,SM,3990,754,10016823,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Flushing,PT,,SM,3990,755,10016825,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Palpitations,PT,,SM,3990,756,10033557,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,,,,SM,3990,757,10005727,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,,,,SM,3990,758,10005734,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Chest pain,PT,,SM,3990,759,10008479,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Extrasystoles,PT,,SM,3990,760,10015856,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Atrioventricular block,PT,,SM,3990,761,10003671,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Sinus arrest,PT,,SM,3990,762,10040738,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Atrial fibrillation,PT,,SM,3990,763,10003658,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Fibrillation,LLT,,SM,3990,764,10016565,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Syncope,PT,,SM,3990,765,10042772,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Tachycardia,PT,,SM,3990,766,10043071,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Bradycardia,PT,,SM,3990,767,10006093,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Headache,PT,,SM,3990,768,10019211,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Heaviness of head,LLT,,SM,3990,769,10049121,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Sleepiness,LLT,,SM,3990,770,10041014,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Tremor,PT,,SM,3990,771,10044565,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Mood swings,PT,,SM,3990,772,10027951,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Sleeplessness,LLT,,SM,3990,773,10041017,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Extrapyramidal symptoms,LLT,,SM,3990,774,10015835,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Epigastric pain,LLT,,SM,3990,775,10015026,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Constipation,PT,,SM,3990,776,10010774,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Queasy,LLT,,SM,3990,777,10037730,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Vomiting,PT,,SM,3990,778,10047700,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Thirst,PT,,SM,3990,779,10043458,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Dyspepsia,PT,,SM,3990,780,10013946,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Diarrhoea,PT,,SM,3990,781,10012735,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Faeces soft,PT,,SM,3990,782,10074859,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Frequent bowel movements,PT,,SM,3990,783,10017367,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Stomatitis,PT,,SM,3990,784,10042128,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Abdominal distension,PT,,SM,3990,785,10000060,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Gastroenteritis,PT,,SM,3990,786,10017888,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Enterocolitis,PT,,SM,3990,787,10014893,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Pancreatitis,PT,,SM,3990,788,10033645,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Muscle tightness,PT,,SM,3990,789,10049816,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Tension,PT,,SM,3990,790,10043268,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Hypertonia,PT,,SM,3990,791,10020852,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Muscle cramp,LLT,,SM,3990,792,10028294,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Convulsion,LLT,,SM,3990,793,10010904,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Arthralgia,PT,,SM,3990,794,10003239,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Myalgia,PT,,SM,3990,795,10028411,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,,,,SM,3990,796,10011358,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Pollakiuria,PT,,SM,3990,797,10036018,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Nocturia,PT,,SM,3990,798,10029446,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Pollakiuria,PT,,SM,3990,799,10036018,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Calculus ureteric,LLT,,SM,3990,800,10007025,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Calculus,LLT,,SM,3990,801,10081112,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,,,,SM,3990,802,10084960,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,,,,SM,3990,803,10052287,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,,,,SM,3990,804,10036987,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,,,,SM,3990,805,10053123,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Urination impaired,LLT,,SM,3990,806,10046601,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,,,,SM,3990,807,10040188,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,,,,SM,3990,808,10008650,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Hyperglycaemia,PT,,SM,3990,809,10020635,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Glycosuria,PT,,SM,3990,810,10018473,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Diabetes mellitus,PT,,SM,3990,811,10012601,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,,,,SM,3990,812,10018436,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,,,,SM,3990,813,10018414,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,,,,SM,3990,814,10018478,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,,,,SM,3990,815,10018876,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,,,,SM,3990,816,10047955,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,,,,SM,3990,817,10047955,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,,,,SM,3990,818,10049183,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Purpura,PT,,SM,3990,819,10037549,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Macule,PT,,SM,3990,820,10025421,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,,,,SM,3990,821,10035545,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Erethism,LLT,,SM,3990,822,10015123,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Hypersensitivity,PT,,SM,3990,823,10020751,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Rash,PT,,SM,3990,824,10037844,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Itching,LLT,,SM,3990,825,10023084,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Measles,PT,,SM,3990,826,10027011,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Erethism,LLT,,SM,3990,827,10015123,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Photosensitivity,LLT,,SM,3990,828,10034966,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Hypersensitivity,PT,,SM,3990,829,10020751,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Erythema multiforme,PT,,SM,3990,830,10015218,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Erythema,PT,,SM,3990,831,10015150,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Macule,PT,,SM,3990,832,10025421,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Vasculitis,PT,,SM,3990,833,10047115,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Angioedema,PT,,SM,3990,834,10002424,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Oedema,PT,,SM,3990,835,10030095,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Gingival hypertrophy,PT,,SM,3990,836,10018284,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,General malaise,LLT,,SM,3990,837,10018066,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Malaise,PT,,SM,3990,838,10025482,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Weakness,LLT,,SM,3990,839,10047862,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Feelings of weakness,LLT,,SM,3990,840,10016373,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Tinnitus,PT,,SM,3990,841,10043882,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Epistaxis,PT,,SM,3990,842,10015090,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Haemorrhage,PT,,SM,3990,843,10055798,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Taste abnormality,LLT,,SM,3990,844,10043123,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Fatigue,PT,,SM,3990,845,10016256,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Pyrexia,PT,,SM,3990,846,10037660,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Dyspnoea,PT,,SM,3990,847,10013968,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Feeling abnormal,PT,,SM,3990,848,10016322,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Dysaesthesia,PT,,SM,3990,849,10013886,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Heavy sweating,LLT,,SM,3990,850,10019362,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,,,,SM,3990,851,10005721,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,,,,SM,3990,852,10036439,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,,,,SM,3990,853,10005724,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,,,,SM,3990,854,10036443,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Feminisation,LLT,,SM,3990,855,10016423,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Gynaecomastia,PT,,SM,3990,856,10018800,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Rhinitis,PT,,SM,3990,857,10039083,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,,,,SM,3990,858,10047890,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,,,,SM,3990,859,10047899,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,,,,SM,3990,860,10047890,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,,,,SM,3990,861,10047895,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Pain,PT,,SM,3990,862,10033371,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,Skin discolouration,PT,,SM,3990,863,10040829,3990,
+"アムロジピン錠2.5mg「杏林」 (後発品)
+アムロジピン錠5mg「杏林」 (後発品)
+アムロジピン錠10mg「杏林」 (後発品)
+アムロジピンOD錠2.5mg「杏林」 (後発品)
+アムロジピンOD錠5mg「杏林」 (後発品)
+アムロジピンOD錠10mg「杏林」 (後発品)",00070990,JP,Norvasc (as amLODIPine besylate) 2.5 MG Oral Tablet,TMSY,,,,,,SM,3990,864,10067484,3990,
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,,,,SM,3738,865,10067484,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,,,,SM,3738,866,10067484,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Hypoglycaemia,PT,,SM,3738,867,10020993,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Glycosuria,PT,,SM,3738,868,10018473,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Diabetes mellitus,PT,,SM,3738,869,10012601,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Hypoglycaemia,PT,,SM,3738,870,10020993,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Glycosuria,PT,,SM,3738,871,10018473,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Diabetes mellitus,PT,,SM,3738,872,10012601,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Hypoglycaemia,PT,,SM,3738,873,10020993,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Hypoglycaemia,PT,,SM,3738,874,10020993,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,,,,SM,3738,875,10018414,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Intestinal obstruction,PT,,SM,3738,876,10022687,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Obstruction,PT,,SM,3738,877,10061876,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Abdominal distension,PT,,SM,3738,878,10000060,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Flatulence,PT,,SM,3738,879,10016766,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Flatus,LLT,,SM,3738,880,10016769,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Flatus increased,LLT,,SM,3738,881,10016771,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Air in intestines,LLT,,SM,3738,882,10001530,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Intestinal obstruction,PT,,SM,3738,883,10022687,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Obstruction,PT,,SM,3738,884,10061876,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Abdominal pain,PT,,SM,3738,885,10000081,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Vomiting,PT,,SM,3738,886,10047700,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Hepatic function disorder,LLT,,SM,3738,887,10019674,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Jaundice,PT,,SM,3738,888,10023126,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Hepatic function disorder,LLT,,SM,3738,889,10019674,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Jaundice,PT,,SM,3738,890,10023126,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Hepatitis fulminant,PT,,SM,3738,891,10019772,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Hepatitis,PT,,SM,3738,892,10019717,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Hepatic cirrhosis,PT,,SM,3738,893,10019641,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Consciousness disturbed,LLT,,SM,3738,894,10010770,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,,,,SM,3738,895,10050287,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Hyperammonaemia,PT,,SM,3738,896,10020575,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Hepatic cirrhosis,PT,,SM,3738,897,10019641,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Constipation,PT,,SM,3738,898,10010774,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,,,,SM,3738,899,10050287,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Hyperammonaemia,PT,,SM,3738,900,10020575,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Consciousness disturbed,LLT,,SM,3738,901,10010770,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,,,,SM,3738,902,10067484,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Abdominal distension,PT,,SM,3738,903,10000060,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Flatulence,PT,,SM,3738,904,10016766,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Flatus,LLT,,SM,3738,905,10016769,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Flatus increased,LLT,,SM,3738,906,10016771,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Faeces soft,PT,,SM,3738,907,10074859,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Frequent bowel movements,PT,,SM,3738,908,10017367,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Diarrhoea,PT,,SM,3738,909,10012735,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Abdominal pain,PT,,SM,3738,910,10000081,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Constipation,PT,,SM,3738,911,10010774,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Queasy,LLT,,SM,3738,912,10037730,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Vomiting,PT,,SM,3738,913,10047700,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Inappetence,LLT,,SM,3738,914,10054792,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Increased appetite,PT,,SM,3738,915,10021654,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Dyspepsia,PT,,SM,3738,916,10013946,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Thirst,PT,,SM,3738,917,10043458,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Pneumatosis,PT,,SM,3738,918,10051986,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Erethism,LLT,,SM,3738,919,10015123,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Hypersensitivity,PT,,SM,3738,920,10020751,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Rash,PT,,SM,3738,921,10037844,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Itching,LLT,,SM,3738,922,10023084,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Headache,PT,,SM,3738,923,10019211,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Heaviness of head,LLT,,SM,3738,924,10049121,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Sensation of heaviness,LLT,,SM,3738,925,10040000,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Numbness,LLT,,SM,3738,926,10029829,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,,,,SM,3738,927,10047955,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,,,,SM,3738,928,10049182,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,,,,SM,3738,929,10035545,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Anaemia,PT,,SM,3738,930,10002034,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Chest pressure sensation,LLT,,SM,3738,931,10008487,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Sensation of pressure,LLT,,SM,3738,932,10040003,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Oedema,PT,,SM,3738,933,10030095,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Hot flush,PT,,SM,3738,934,10060800,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Taste abnormality,LLT,,SM,3738,935,10043123,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,Pollakiuria,PT,,SM,3738,936,10036018,3738,16681
+"アカルボース錠50mg「NS」 (後発品)
+アカルボース錠100mg「NS」 (後発品)",00056772,JP,acarbose 25 MG Oral Tablet,PSN,acarbose,Ingredient,,,,SM,3738,937,10067484,3738,16681
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,,,,SM,1446,938,10067484,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,,,,SM,1446,939,10067484,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Hypoglycaemia,PT,,SM,1446,940,10020993,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Weakness,LLT,,SM,1446,941,10047862,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Feelings of weakness,LLT,,SM,1446,942,10016373,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Malaise,PT,,SM,1446,943,10025482,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Hunger,PT,,SM,1446,944,10020466,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Feeling hungry,LLT,,SM,1446,945,10016336,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Cold sweat,PT,,SM,1446,946,10009866,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Pallor facial,LLT,,SM,1446,947,10033548,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Pallor,PT,,SM,1446,948,10033546,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Palpitations,PT,,SM,1446,949,10033557,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Tremor,PT,,SM,1446,950,10044565,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Headache,PT,,SM,1446,951,10019211,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Queasy,LLT,,SM,1446,952,10037730,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Abnormal vision,LLT,,SM,1446,953,10000186,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Hypoglycaemia,PT,,SM,1446,954,10020993,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,,,,SM,1446,955,10022468,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,,,,SM,1446,956,10034939,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Hypoglycaemia,PT,,SM,1446,957,10020993,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Loss of consciousness,PT,,SM,1446,958,10024855,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Hypoglycaemia,PT,,SM,1446,959,10020993,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,,,,SM,1446,960,10018414,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Glycosuria,PT,,SM,1446,961,10018473,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Diabetes mellitus,PT,,SM,1446,962,10012601,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Pancreatitis acute,PT,,SM,1446,963,10033647,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Pancreatitis,PT,,SM,1446,964,10033645,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Vomiting,PT,,SM,1446,965,10047700,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Abdominal pain,PT,,SM,1446,966,10000081,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Pancreatitis,PT,,SM,1446,967,10033645,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Cholecystitis,PT,,SM,1446,968,10008612,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Cholangitis,PT,,SM,1446,969,10008604,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Cholestasis,PT,,SM,1446,970,10008635,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Jaundice cholestatic,PT,,SM,1446,971,10023129,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Jaundice,PT,,SM,1446,972,10023126,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,,,,SM,1446,973,10067484,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Infection,PT,,SM,1446,974,10021789,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Gastroenteritis,PT,,SM,1446,975,10017888,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Enterocolitis,PT,,SM,1446,976,10014893,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,,,,SM,1446,977,10021430,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Immune system disorder,PT,,SM,1446,978,10021425,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Erethism,LLT,,SM,1446,979,10015123,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Hypersensitivity,PT,,SM,1446,980,10020751,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Rash,PT,,SM,1446,981,10037844,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Measles,PT,,SM,1446,982,10027011,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Malnutrition,PT,,SM,1446,983,10061273,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Decreased appetite,PT,,SM,1446,984,10061428,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Nervous system disorder,PT,,SM,1446,985,10029202,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Headache,PT,,SM,1446,986,10019211,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Dizziness,PT,,SM,1446,987,10013573,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Taste abnormality,LLT,,SM,1446,988,10043123,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Glycosuria,PT,,SM,1446,989,10018473,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Diabetes mellitus,PT,,SM,1446,990,10012601,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Diabetic retinopathy,PT,,SM,1446,991,10012689,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Retinopathy,PT,,SM,1446,992,10038923,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,,,,SM,1446,993,10019299,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,,,,SM,1446,994,10019303,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Gastrointestinal disorder,PT,,SM,1446,995,10017944,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Nausea,PT,,SM,1446,996,10028813,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Diarrhoea,PT,,SM,1446,997,10012735,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Constipation,PT,,SM,1446,998,10010774,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Vomiting,PT,,SM,1446,999,10047700,1446,
+オゼンピック皮下注2mg,00070262,JP,OZEMPIC 4 MG in 3 ML Pen Injector,PSN,,,Abdominal discomfort,PT,,SM,1446,1000,10000059,1446,
